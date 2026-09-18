@@ -78,7 +78,7 @@
 
 ---
 
-## Comparativa y Análisis del Estado del Arte
+## CIERRE
 
 Después de analizar los tres artículos, llego a la conclusión de que todos comparten una misma premisa: los Sistemas Gestores de Bases de Datos tradicionales ya no son suficientes para los retos actuales de la nube, el análisis masivo y el procesamiento distribuido. Lo que antes era un diseño rígido ahora necesita ser flexible, adaptativo y capaz de integrar nuevas tecnologías como el aprendizaje automático.
 
