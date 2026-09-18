@@ -64,7 +64,7 @@
 
    * En modo cluster, habilita ejecución paralela y escalabilidad.
 
-   La analogía aquí sería pensar en un vehículo híbrido: OceanBase antes era como un camión pesado diseñado solo para grandes cargas (grandes empresas). Con Paetica, ahora puede transformarse en un coche compacto para moverse ágilmente en escenarios pequeños, y luego crecer de nuevo a un camión cuando la empresa lo requiera, sin necesidad de cambiar de vehículo.
+   Podemos imaginarlo como un coche híbrido, OceanBase antes era como un camión pesado diseñado solo para grandes cargas (grandes empresas). Con Paetica, ahora puede transformarse en un coche compacto para moverse ágilmente en escenarios pequeños, y luego crecer de nuevo a un camión cuando la empresa lo requiera, sin necesidad de cambiar de vehículo.
 
 4. **Resultado principal que reportan:**
    El resultado clave es que OceanBase con Paetica logra escalabilidad lineal en modo individual (aprovechando más núcleos de CPU) y supera a sistemas como MySQL y Greenplum en pruebas de rendimiento (Sysbench y TPC-H). Además, permite que una misma base de datos acompañe a una empresa desde sus primeras etapas hasta su crecimiento, sin necesidad de migrar a otro sistema. En otras palabras, OceanBase se convierte en una solución flexible que atiende tanto a pequeñas como a grandes organizaciones, adaptándose a sus necesidades con un solo motor.
@@ -80,7 +80,7 @@
 
 ## CIERRE
 
-Después de analizar los tres artículos, llego a la conclusión de que todos comparten una misma premisa: los Sistemas Gestores de Bases de Datos tradicionales ya no son suficientes para los retos actuales de la nube, el análisis masivo y el procesamiento distribuido. Lo que antes era un diseño rígido ahora necesita ser flexible, adaptativo y capaz de integrar nuevas tecnologías como el aprendizaje automático.
+Después de analizar los tres artículos, llegamos a la conclusión de que todos comparten una misma premisa: los Sistemas Gestores de Bases de Datos tradicionales ya no son suficientes para los retos actuales de la nube, el análisis masivo y el procesamiento distribuido. Lo que antes era un diseño rígido ahora necesita ser flexible, adaptativo y capaz de integrar nuevas tecnologías como el aprendizaje automático.
 
 Cada propuesta aborda el problema desde un ángulo distinto:
 
@@ -90,6 +90,6 @@ Cada propuesta aborda el problema desde un ángulo distinto:
 
 * Suresh et al. (2023) llevan la discusión a la macroescala, convirtiendo al SGBD en el núcleo de un sistema operativo. Es como transformar el coche en toda la carretera: el gestor ya no es solo un componente, sino la base sobre la que corre todo el sistema.
 
-Lo que me queda claro es que no existe una única solución universal. Cada enfoque responde a un nivel distinto de abstracción y necesidad. En mi interpretación, el futuro de los SGBD será híbrido: habrá momentos en que necesitemos la potencia de un camión (clusters distribuidos), otros en que baste con la rapidez de una moto (bases embebidas), y quizá incluso escenarios donde el gestor se convierta en la infraestructura completa (como un sistema operativo).
+Lo que nos queda claro es que no existe una única solución universal. Cada enfoque responde a un nivel distinto de abstracción y necesidad. En nuestra interpretación, el futuro de los SGBD será híbrido: habrá momentos en que necesitemos la potencia de un camión (clusters distribuidos), otros en que baste con la rapidez de una moto (bases embebidas), y quizá incluso escenarios donde el gestor se convierta en la infraestructura completa (como un sistema operativo).
 
-Finalmente, identifico un problema abierto: cómo mantener las propiedades ACID (consistencia, aislamiento, recuperabilidad) en tiempo real cuando se integran algoritmos adaptativos basados en aprendizaje automático. Resolverlo será clave para que estas propuestas no solo sean innovadoras, sino también confiables en entornos de producción altamente dinámicos.
+Finalmente, identificamos un problema abierto: cómo mantener las propiedades ACID (consistencia, aislamiento, recuperabilidad) en tiempo real cuando se integran algoritmos adaptativos basados en aprendizaje automático. Resolverlo será clave para que estas propuestas no solo sean innovadoras, sino también confiables en entornos de producción altamente dinámicos.
