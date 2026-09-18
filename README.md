@@ -1,18 +1,28 @@
 # Práctica 1 Base de Datos 
+## Colaboradores
+* **Nombre:** Brenda Roa Venegas 
+* **Boleta:** 2025630789
 
-* **Brenda Roa Venegas 
-* **Boleta: 2025630789
-* **Grupo: 3BV1
-* **Carrera: Ingenieria en Inteligencia Artificial 
+* **Nombre:** Omar Flores Olivares
+* **Boleta:** 2025630831
 
-## Índice “Practica 1 Modelo Entidad Relacion”
-1. Ejercicio 1. Control de versiones con Git y GitHub
-	Parte A. Investigación.
-	Parte B. Práctica.
-2. Ejercicio 2. El sistema gestor en un contenedor: Docker
-	Parte A. Investigación.
-	Parte B. Práctica.
-3. Ejercicio 3. Investigación: qué es una base de datos
-4. Ejercicio 4. Estado del arte: tres artículos científicos
-5. Ejercicio 5. Caso de estudio y modelo entidad-relación
-6. 
+
+* **Grupo:** 3BV1
+* **Carrera:** Ingenieria en Inteligencia Artificial 
+---
+## ÍNDICE “Practica 1 Modelo Entidad Relacion”
+1. [Trabajo Individual de Brenda Roa Venegas](./Trabajo-Individual-Brenda/)
+	* Ejercicio 1
+	* Ejercicio 2
+	* Ejercicio 3
+	* Ejercicio 4
+2. [Trabajo Individual de Omar Flores Olivares](./Trabajo-Individual-Omar/)
+	* Ejercicio 1
+	* Ejercicio 2
+	* Ejercicio 3
+	* Ejercicio 4
+3. [Ejercicio 5 (Trabajo en equipo)](./Ejercicio5/)
+
+
+---
+* **Evidencias de cada ejercicio dentro de su carpeta correspondiente**
