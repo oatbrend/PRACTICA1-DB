@@ -18,7 +18,7 @@ En aislamiento, los contenedores aprovechan el kernel del sistema operativo anfi
 ## DEFINICIONES
 
 ### Imagen
-Una imagen de contenedor es un archivo estático e independiente que empaqueta todo lo necesario para ejecutar una aplicación: código, librerías, dependencias y configuraciones del sistema. Funciona como un plano ejecutable a partir del cual se generan las instancias de contenedor. Gracias a su portabilidad, las imágenes en entornos como Docker se pueden compartir y desplegar de manera consistente en diferentes infraestructuras sin importar el sistema operativo base.
+Una imagen de contenedor es un archivo que empaqueta todo lo necesario para ejecutar una aplicación: código, librerías y configuraciones del sistema. Gracias a su portabilidad, las imágenes en entornos como Docker se pueden compartir y utlizar en diferentes ubicaiones.
 
 ### Contenedor
 Es una instancia ejecutable y aislada de una imagen. Funciona como un paquete ligero que ejecuta la aplicación compartiendo el kernel del sistema operativo base.
