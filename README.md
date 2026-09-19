@@ -14,14 +14,12 @@
 1. [Trabajo Individual de Brenda Roa Venegas](./Trabajo-Individual-Brenda/)
 	* Ejercicio 1
 	* Ejercicio 2
-	* Ejercicio 3
-	* Ejercicio 4
 2. [Trabajo Individual de Omar Flores Olivares](./Trabajo-Individual-Omar/)
 	* Ejercicio 1
 	* Ejercicio 2
-	* Ejercicio 3
-	* Ejercicio 4
-3. [Ejercicio 5 (Trabajo en equipo)](./Ejercicio5/)
+3. [Ejercicio 3 (Trabajo en equipo)](./Ejercicio3/)
+4. [Ejercicio 4 (Trabajo en equipo)](./Ejercicio4/)
+5. [Ejercicio 5 (Trabajo en equipo)](./Ejercicio5/)
 
 
 ---
